@@ -7358,6 +7358,11 @@ react-app-polyfill@^3.0.0:
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
 
+react-auto-typing@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-auto-typing/-/react-auto-typing-1.0.0.tgz#5b36da0690e22c9eb1e6d6f608e8ffd54fd275a2"
+  integrity sha512-Q6X0BpG7WB4+/MXEsykT/Jc32B98QRiDr128kZcPWTpbqdrjjBvVSFm1DWasTSkO8Jh8X1MNlQmgG1hTLpRU7Q==
+
 react-dev-utils@^12.0.1:
   version "12.0.1"
   resolved "https://registry.yarnpkg.com/react-dev-utils/-/react-dev-utils-12.0.1.tgz#ba92edb4a1f379bd46ccd6bcd4e7bc398df33e73"
