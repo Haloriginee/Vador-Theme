@@ -1,8 +1,9 @@
 import React from 'react'
 
-import { Blog, Features, Footer, Force, Header, Possibility} from "./containers";
+import { Blog, Features, Footer, Force, Header, Lightsaber} from "./containers";
 import { CTA, Navbar, Laser} from "./components";
 import "./App.css";
+
 
 const App = () => {
   return (
@@ -14,7 +15,7 @@ const App = () => {
       <Laser />
       <Force />
       <Features />
-      <Possibility />
+      <Lightsaber />
       <CTA />
       <Blog />
       <Footer />
