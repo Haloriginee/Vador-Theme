@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.3df1d750.css",
-    "main.js": "/react-gh-pages/static/js/main.275567a9.js",
-    "static/media/people.png": "/react-gh-pages/static/media/people.1c97344fc789e8658393.png",
-    "static/media/lightsaberImage.png": "/react-gh-pages/static/media/lightsaberImage.7e8994e17811279170d3.png",
-    "static/media/blog03.png": "/react-gh-pages/static/media/blog03.bdce7848af1d2daa8d64.png",
-    "static/media/blog01.png": "/react-gh-pages/static/media/blog01.229d41697b9fddd5ee6c.png",
-    "static/media/galactic.png": "/react-gh-pages/static/media/galactic.98f3b42716918e0e39b7.png",
-    "static/media/blog05.png": "/react-gh-pages/static/media/blog05.fc9ab052fd7882138a3b.png",
-    "static/media/blog04.png": "/react-gh-pages/static/media/blog04.119443c46fe25c722c71.png",
-    "static/media/vador.png": "/react-gh-pages/static/media/vador.eeacd097c47535915a68.png",
-    "static/media/jedi.png": "/react-gh-pages/static/media/jedi.ebd44c5965d0fa1f88a4.png",
-    "static/media/rebel.png": "/react-gh-pages/static/media/rebel.6a612671b20d81094847.png",
-    "static/media/blog02.png": "/react-gh-pages/static/media/blog02.4f897750744205044cd2.png",
-    "static/media/logo.png": "/react-gh-pages/static/media/logo.dd2c0f52afb54d94bfdd.png",
-    "static/media/logo1.png": "/react-gh-pages/static/media/logo1.dd2c0f52afb54d94bfdd.png",
-    "static/media/first_order.png": "/react-gh-pages/static/media/first_order.af0ae0c3e9ce3f311311.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.3df1d750.css.map": "/react-gh-pages/static/css/main.3df1d750.css.map",
-    "main.275567a9.js.map": "/react-gh-pages/static/js/main.275567a9.js.map"
+    "main.css": "/Vador-Theme/static/css/main.3df1d750.css",
+    "main.js": "/Vador-Theme/static/js/main.9e94b629.js",
+    "static/media/people.png": "/Vador-Theme/static/media/people.1c97344fc789e8658393.png",
+    "static/media/lightsaberImage.png": "/Vador-Theme/static/media/lightsaberImage.7e8994e17811279170d3.png",
+    "static/media/blog03.png": "/Vador-Theme/static/media/blog03.bdce7848af1d2daa8d64.png",
+    "static/media/blog01.png": "/Vador-Theme/static/media/blog01.229d41697b9fddd5ee6c.png",
+    "static/media/galactic.png": "/Vador-Theme/static/media/galactic.98f3b42716918e0e39b7.png",
+    "static/media/blog05.png": "/Vador-Theme/static/media/blog05.fc9ab052fd7882138a3b.png",
+    "static/media/blog04.png": "/Vador-Theme/static/media/blog04.119443c46fe25c722c71.png",
+    "static/media/vador.png": "/Vador-Theme/static/media/vador.eeacd097c47535915a68.png",
+    "static/media/jedi.png": "/Vador-Theme/static/media/jedi.ebd44c5965d0fa1f88a4.png",
+    "static/media/rebel.png": "/Vador-Theme/static/media/rebel.6a612671b20d81094847.png",
+    "static/media/blog02.png": "/Vador-Theme/static/media/blog02.4f897750744205044cd2.png",
+    "static/media/logo.png": "/Vador-Theme/static/media/logo.dd2c0f52afb54d94bfdd.png",
+    "static/media/logo1.png": "/Vador-Theme/static/media/logo1.dd2c0f52afb54d94bfdd.png",
+    "static/media/first_order.png": "/Vador-Theme/static/media/first_order.af0ae0c3e9ce3f311311.png",
+    "index.html": "/Vador-Theme/index.html",
+    "main.3df1d750.css.map": "/Vador-Theme/static/css/main.3df1d750.css.map",
+    "main.9e94b629.js.map": "/Vador-Theme/static/js/main.9e94b629.js.map"
   },
   "entrypoints": [
     "static/css/main.3df1d750.css",
-    "static/js/main.275567a9.js"
+    "static/js/main.9e94b629.js"
   ]
 }
