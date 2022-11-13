@@ -19,7 +19,7 @@ function Header() {
         </div>
         <div className="vador__header-content__people">
           <img src={people} alt="people" />
-          <p>6,666 people requested access to the dark force</p>
+          <p>6,666 people requested access to the dark side</p>
         </div>
       </div>
       <div className="vador__header-image">
